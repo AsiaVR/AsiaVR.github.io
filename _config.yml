@@ -1,15 +1,16 @@
 # general configuration
-url: http://excentris.net
-baseurl: '/compass'
+# url: http://excentris.net
+# baseurl: '/compass'
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  # logo: "/images/compass.png"
+  logo: "/images/AsiaVR.png"
   # author will appear under the avatar (optional)
-  author: "AsiaVR"
+  # author: "AsiaVR"
   # tagline will appear under the title (optional)
-  tagline: "Asia Virtual Reality association"
+  title: "Asia Virtual Reality association"
+  description: "Asia Virtual Reality association to grow virtual reality industry in Asia"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -30,4 +31,3 @@ relative_permalinks: true
 analytics:
   # Add tracking code in _includes/_google-analytics.html
   google: true
->>>>>>> Update _config.yml

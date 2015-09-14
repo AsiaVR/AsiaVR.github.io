@@ -43,14 +43,10 @@ since it must be aligned with the content */
   text-align: center; }
 
 .logo {
-  width: 96px;
-  height: 96px;
+  width: 340px;
+  height: 190px;
   display: inline-block;
-  background-size: cover;
-  border-radius: 50%;
-  -moz-border-radius: 50%;
-  border: 2px solid #F1EED9;
-  box-shadow: 0 0 0 3px #46433A; }
+  background-size: cover; }
 
 /*** author ***/
 .author-container h1 {
